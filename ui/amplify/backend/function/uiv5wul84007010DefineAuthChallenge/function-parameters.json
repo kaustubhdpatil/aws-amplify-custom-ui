@@ -1,0 +1,14 @@
+{
+    "trigger": true,
+    "modules": [
+        "captcha-define-challenge"
+    ],
+    "parentResource": "uiv5wul84007010",
+    "functionName": "uiv5wul84007010DefineAuthChallenge",
+    "parentStack": "auth",
+    "triggerEnvs": "[]",
+    "triggerTemplate": "DefineAuthChallenge.json.ejs",
+    "roleName": "uiv5wul84007010DefineAuthChallenge",
+    "skipEdit": true,
+    "resourceName": "uiv5wul84007010DefineAuthChallenge"
+}

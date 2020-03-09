@@ -1,0 +1,14 @@
+{
+    "trigger": true,
+    "modules": [
+        "captcha-verify"
+    ],
+    "parentResource": "uiv5wul84007010",
+    "functionName": "uiv5wul84007010VerifyAuthChallengeResponse",
+    "parentStack": "auth",
+    "triggerEnvs": "[]",
+    "triggerTemplate": "VerifyAuthChallengeResponse.json.ejs",
+    "roleName": "uiv5wul84007010VerifyAuthChallengeResponse",
+    "skipEdit": true,
+    "resourceName": "uiv5wul84007010VerifyAuthChallengeResponse"
+}
