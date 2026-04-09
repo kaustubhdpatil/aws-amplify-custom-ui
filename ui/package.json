@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@aws-amplify/cli": "^4.16.0",
+    "@aws-amplify/cli": "^14.3.0",
     "@bit/mui-org.material-ui.button": "^4.5.2",
     "@bit/mui-org.material-ui.text-field": "^4.5.2",
     "@testing-library/jest-dom": "^4.2.4",
